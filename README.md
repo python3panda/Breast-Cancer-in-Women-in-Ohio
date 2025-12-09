@@ -1,6 +1,5 @@
-# Breast-Cancer-in-Women-in-Ohio
-
-Socioeconomic Predictors, Geographic Disparities, and Mapping Analysis
+# Breast-Cancer-in-Women-in-Ohio 
+  - Socioeconomic Predictors, Geographic Disparities, and Mapping Analysis
 
 This repository contains all data, scripts, figures, and documentation for an analysis of breast cancer incidence rates across Ohio’s 88 counties, exploring how incidence is associated with:
 

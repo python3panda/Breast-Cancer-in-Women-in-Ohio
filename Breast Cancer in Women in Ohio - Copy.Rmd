@@ -454,7 +454,7 @@ ggplot() +
   ) +
   scale_fill_distiller(palette = "Spectral", direction = 1) +
   labs(
-    title = "Percent with Bachelor's Degree or Higher by County in Ohio",
+    title = "Percent with 9th grade or less by County in Ohio",
     fill = "College+ (%)"
   ) +
   theme_void() +
@@ -549,4 +549,5 @@ ggplot() +
     legend.position = "top",
     plot.title = element_text(hjust = 0.5)
   )
+
 ```
